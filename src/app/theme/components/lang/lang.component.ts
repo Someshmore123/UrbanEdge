@@ -26,6 +26,10 @@ export class LangComponent implements OnInit {
     else if(lang == 'de'){
       return 'German';
     }
+    
+     else if(lang == 'de'){
+      return 'German';
+    }
     else if(lang == 'fr'){
       return 'French';
     }
