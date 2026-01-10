@@ -2,18 +2,18 @@
     {
         "id": 1,
         "title": "Modern and quirky flat", 
-        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium magnam veniam sit reprehenderit deserunt ad voluptates id aperiam veritatis! Nobis saepe quos eveniet numquam vitae quis, tenetur consectetur impedit dolore.",
+        "desc": "A modern and quirky flat featuring stylish interiors and unique design elements. The open-plan layout maximizes space and light, creating a vibrant living area. The property includes two bedrooms, two bathrooms, and a contemporary kitchen equipped with the latest appliances. Located in a lively neighborhood, this flat is perfect for those seeking a trendy urban lifestyle.",
         "propertyType": "Apartment",
         "propertyStatus": ["For Sale"],
-        "city": "New York",
-        "zipCode": "10033",
-        "neighborhood": ["Astoria", "Midtown"],
-        "street": ["Astoria Street #1", "Midtown Street #2"],
+        "city": "Katraj",
+        "zipCode": "612305",
+        "neighborhood": ["Dhanakawadi", "Kondhawa"],
+        "street": ["satara highway", "Near Katraj Bus Stop"],
         "location" : {
-            "lat": 40.849150,
-            "lng": -73.935100
+            "lat": 18.5204,
+            "lng": 73.8567
         },
-        "formattedAddress" : "611 W 180th St, New York, NY 10033, USA",
+        "formattedAddress" : "Katraj, Pune, Maharashtra 612305, India",
         "features": ["Air Conditioning", "Barbeque", "Dryer", "Microwave", "Refrigerator", "Fireplace", "Swimming Pool", "TV Cable", "WiFi"],
         "featured": false, 
         "priceDollar": {
@@ -93,7 +93,7 @@
         "plans": [
             {
                 "name": "First floor",
-                "desc": "Plan description. Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium magnam veniam sit reprehenderit deserunt ad voluptates id aperiam veritatis! Nobis saepe quos eveniet numquam vitae quis, tenetur consectetur impedit dolore.",
+                "desc": "An ideal first-floor home with smooth accessibility and practical living spaces. The layout is designed to maximize comfort and functionality, making it suitable for various lifestyles. Large windows allow for ample natural light, enhancing the overall ambiance and creating a welcoming environment.",
                 "area": {
                     "value": 1180,
                     "unit": "ft²"
@@ -104,7 +104,7 @@
             },
             {
                 "name": "Second floor",
-                "desc": "Plan description. Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium magnam veniam sit reprehenderit deserunt ad voluptates id aperiam veritatis! Nobis saepe quos eveniet numquam vitae quis, tenetur consectetur impedit dolore.",
+                "desc": "A thoughtfully designed second-floor residence with enhanced privacy and calm surroundings. The layout optimizes space and natural light, providing a serene living environment. Perfect for those seeking tranquility away from street-level activity.",
                 "area": {
                     "value": 1200,
                     "unit": "ft²"
@@ -131,18 +131,18 @@
     {
         "id": 2,
         "title": "Centrally located office", 
-        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium magnam veniam sit reprehenderit deserunt ad voluptates id aperiam veritatis! Nobis saepe quos eveniet numquam vitae quis, tenetur consectetur impedit dolore.",
+        "desc": "Central office space with excellent business access. The layout is designed to enhance productivity and collaboration, featuring open work areas, private meeting rooms, and modern facilities. Large windows provide ample natural light, creating a bright and motivating environment. Ideal for companies seeking a professional and convenient workspace in the heart of the city.",
         "propertyType": "Office",
         "propertyStatus": ["For Rent", "No Fees"],
-        "city": "Los Angeles",
-        "zipCode": "90044",
-        "neighborhood": ["Hollywood", "Highland Park"],
-        "street": ["Hollywood Street #2", "Highland Park Street #1"],
+        "city": "Saswad",
+        "zipCode": "618111",
+        "neighborhood": ["Walhe", "Kumbharvalan"],
+        "street": ["jejuri road", "Near Saswad Market"],
         "location" : {
-            "lat": 33.954220,
-            "lng": -118.293730
+            "lat": 18.407200,
+            "lng": 73.856200
         },
-        "formattedAddress" : "1052 W 91st St, Los Angeles, CA 90044, USA",
+        "formattedAddress" : "Saswad, Maharashtra 618111, India",
         "features": ["Air Conditioning", "Barbeque", "Dryer", "Microwave", "Refrigerator", "Fireplace", "Sauna", "TV Cable", "WiFi"], 
         "featured": true,
         "priceDollar": {
@@ -232,7 +232,7 @@
         "plans": [
             {
                 "name": "First floor",
-                "desc": "Plan description. Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium magnam veniam sit reprehenderit deserunt ad voluptates id aperiam veritatis! Nobis saepe quos eveniet numquam vitae quis, tenetur consectetur impedit dolore.",
+                "desc": "Ideal first-floor living with smooth accessibility and comfortable interiors. The design emphasizes functionality and spaciousness, making it suitable for various needs. Large windows allow for plenty of natural light, enhancing the overall ambiance and creating a pleasant living space.",
                 "area": {
                     "value": 1180,
                     "unit": "ft²"
@@ -243,7 +243,7 @@
             },
             {
                 "name": "Second floor",
-                "desc": "Plan description. Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium magnam veniam sit reprehenderit deserunt ad voluptates id aperiam veritatis! Nobis saepe quos eveniet numquam vitae quis, tenetur consectetur impedit dolore.",
+                "desc": "A modern second-floor home designed for quiet and relaxed living. The layout maximizes space and light, providing a comfortable environment. Ideal for those seeking a peaceful retreat with easy access to outdoor views and natural surroundings.",
                 "area": {
                     "value": 1200,
                     "unit": "ft²"
@@ -270,18 +270,18 @@
     {
         "id": 7,
         "title": "Luxury office space", 
-        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium magnam veniam sit reprehenderit deserunt ad voluptates id aperiam veritatis! Nobis saepe quos eveniet numquam vitae quis, tenetur consectetur impedit dolore.",
+        "desc": "An elegant workspace with high-end finishes and a refined business atmosphere. The office features spacious layouts, private meeting rooms, and cutting-edge technology to support a productive work environment. Large windows provide abundant natural light, enhancing the overall ambiance. Located in a prestigious area, this office space is perfect for companies aiming to make a strong impression.",
         "propertyType": "Office",
         "propertyStatus": ["For Sale", "Hot Offer"],
-        "city": "New York",
-        "zipCode": "10019",
-        "neighborhood": ["Englewood", "Austin"],
-        "street": ["Englewood Street #2", "Austin Street #2"],
+        "city": "Satara",
+        "zipCode": "415206",
+        "neighborhood": ["pusegaon", "rajbhavan palace"],
+        "street": ["satara highway", "Near Satara Bus Stop"],
         "location" : {
-            "lat": 40.716761,
-            "lng": -73.999958
+            "lat": 18.407200,
+            "lng": 73.856200
         },
-        "formattedAddress": "230 W 55th St, New York, NY 10019, USA", 
+        "formattedAddress": "Satara, Maharashtra 618111, India", 
         "features": ["Air Conditioning", "Barbeque", "Dryer", "Microwave", "Gym", "Swimming Pool", "Sauna", "TV Cable", "WiFi"],
         "featured": false, 
         "priceDollar": {
@@ -371,7 +371,7 @@
         "plans": [
             {
                 "name": "First floor",
-                "desc": "Plan description. Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium magnam veniam sit reprehenderit deserunt ad voluptates id aperiam veritatis! Nobis saepe quos eveniet numquam vitae quis, tenetur consectetur impedit dolore.",
+                "desc": "An ideal first-floor home with smooth accessibility and practical living spaces. The layout is designed to maximize comfort and functionality, making it suitable for various lifestyles. Large windows allow for ample natural light, enhancing the overall ambiance and creating a welcoming environment.",
                 "area": {
                     "value": 1180,
                     "unit": "ft²"
@@ -382,7 +382,7 @@
             },
             {
                 "name": "Second floor",
-                "desc": "Plan description. Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium magnam veniam sit reprehenderit deserunt ad voluptates id aperiam veritatis! Nobis saepe quos eveniet numquam vitae quis, tenetur consectetur impedit dolore.",
+                "desc": "Private and quiet second-floor living. The design focuses on creating a serene atmosphere with optimized space and light. Ideal for those seeking a peaceful home environment away from the hustle and bustle of street level.",
                 "area": {
                     "value": 1200,
                     "unit": "ft²"
@@ -409,18 +409,18 @@
     {
         "id": 8,
         "title": "Centrally located apartment", 
-        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium magnam veniam sit reprehenderit deserunt ad voluptates id aperiam veritatis! Nobis saepe quos eveniet numquam vitae quis, tenetur consectetur impedit dolore.",
+        "desc": "The apartment combines modern architectural design with functional living spaces, providing comfort and efficiency for urban lifestyles. Residents benefit from a vibrant neighborhood with excellent social, cultural, and recreational opportunities. The apartment is ideal for individuals or families seeking a contemporary living experience in a prime location.",
         "propertyType": "Apartment",
         "propertyStatus": ["For Rent", "No Fees"],
-        "city": "Los Angeles",
-        "zipCode": "90028",
-        "neighborhood": ["Englewood", "Austin"],
-        "street": ["Englewood Street #2", "Austin Street #2"],
+        "city": "Vimanagar",
+        "zipCode": "514263",
+        "neighborhood": ["phoenix mall", "Amanora park"],
+        "street": ["Kharadi bypass", "Near Vimanagar Station"],
         "location" : {
-            "lat": 34.100570,
-            "lng": -118.327440
+            "lat": 18.407200,
+            "lng": 73.856200
         },
-        "formattedAddress": "1627 Vine St, Los Angeles, CA 90028, USA", 
+        "formattedAddress": "Vimanagar, Maharashtra 618111, India", 
         "features": ["Air Conditioning", "Refrigerator", "Dryer", "Microwave", "Gym", "Swimming Pool", "Sauna", "TV Cable", "WiFi"],
         "featured": true, 
         "priceDollar": {
@@ -505,7 +505,7 @@
         "plans": [
             {
                 "name": "First floor",
-                "desc": "Plan description. Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium magnam veniam sit reprehenderit deserunt ad voluptates id aperiam veritatis! Nobis saepe quos eveniet numquam vitae quis, tenetur consectetur impedit dolore.",
+                "desc": "A convenient first-floor home offering easy access and comfortable living. The layout is designed to enhance functionality and space utilization, making it suitable for a variety of lifestyles. Large windows provide ample natural light, creating a warm and inviting atmosphere.",
                 "area": {
                     "value": 1180,
                     "unit": "ft²"
@@ -516,7 +516,7 @@
             },
             {
                 "name": "Second floor",
-                "desc": "Plan description. Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium magnam veniam sit reprehenderit deserunt ad voluptates id aperiam veritatis! Nobis saepe quos eveniet numquam vitae quis, tenetur consectetur impedit dolore.",
+                "desc": "A well-ventilated second-floor residence with open views and natural light. The design focuses on creating a peaceful living space, ideal for relaxation and comfort. Perfect for those seeking a quiet home environment away from street-level activity.",
                 "area": {
                     "value": 1200,
                     "unit": "ft²"

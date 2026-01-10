@@ -2,18 +2,18 @@
     {
         "id": 2,
         "title": "Centrally located office", 
-        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium magnam veniam sit reprehenderit deserunt ad voluptates id aperiam veritatis! Nobis saepe quos eveniet numquam vitae quis, tenetur consectetur impedit dolore.",
+        "desc": "A well-planned office space ideal for businesses seeking a professional work environment. The layout is designed to maximize productivity and comfort, featuring spacious work areas, meeting rooms, and modern amenities. Large windows provide ample natural light, creating a bright and inviting atmosphere for employees and clients alike. This office is perfect for companies looking to establish a strong presence in a bustling urban location.",
         "propertyType": "Office",
         "propertyStatus": ["For Rent", "No Fees"],
-        "city": "Los Angeles",
-        "zipCode": "90044",
-        "neighborhood": ["Hollywood", "Highland Park"],
-        "street": ["Hollywood Street #2", "Highland Park Street #1"],
+        "city": "Solapur",
+        "zipCode": "411604",
+        "neighborhood": ["Season Mall", "Pandharpur Road"],
+        "street": ["Samrudhhi Mahamarg", "Near Season Mall"],
         "location" : {
-            "lat": 33.954220,
-            "lng": -118.293730
+            "lat": 17.6868,
+            "lng": 78.4590
         },
-        "formattedAddress" : "1052 W 91st St, Los Angeles, CA 90044, USA",
+        "formattedAddress" : "Solapur, Maharashtra 411604, India",
         "features": ["Air Conditioning", "Barbeque", "Dryer", "Microwave", "Refrigerator", "Fireplace", "Sauna", "TV Cable", "WiFi"], 
         "featured": true,
         "priceDollar": {
@@ -103,7 +103,7 @@
         "plans": [
             {
                 "name": "First floor",
-                "desc": "Plan description. Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium magnam veniam sit reprehenderit deserunt ad voluptates id aperiam veritatis! Nobis saepe quos eveniet numquam vitae quis, tenetur consectetur impedit dolore.",
+                "desc": "A well-ventilated first-floor home offering easy access, comfort, and privacy. The layout is designed to maximize functionality, making it perfect for individuals or families seeking a cozy living space. Large windows provide ample natural light, creating a bright and welcoming atmosphere.",
                 "area": {
                     "value": 1180,
                     "unit": "ft²"
@@ -114,7 +114,7 @@
             },
             {
                 "name": "Second floor",
-                "desc": "Plan description. Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium magnam veniam sit reprehenderit deserunt ad voluptates id aperiam veritatis! Nobis saepe quos eveniet numquam vitae quis, tenetur consectetur impedit dolore.",
+                "desc": "A bright and peaceful second-floor residence with enhanced views and reduced street noise. The interior is thoughtfully designed to optimize space and light, providing a comfortable and serene home environment. Ideal for those seeking a tranquil living space away from the hustle and bustle of street level.",
                 "area": {
                     "value": 1200,
                     "unit": "ft²"
@@ -141,18 +141,18 @@
     {
         "id": 5,
         "title": "House with a pool", 
-        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium magnam veniam sit reprehenderit deserunt ad voluptates id aperiam veritatis! Nobis saepe quos eveniet numquam vitae quis, tenetur consectetur impedit dolore.",
+        "desc": "A beautiful house featuring a private pool, perfect for relaxation and outdoor living. The spacious layout includes multiple bedrooms and bathrooms, a modern kitchen, and a comfortable living area. Large windows and glass doors provide plenty of natural light and easy access to the pool area, making it an ideal home for entertaining guests or enjoying family time. The property is located in a serene neighborhood, offering both privacy and convenience.",
         "propertyType": "House",
         "propertyStatus": ["Sold", "For Sale"],
-        "city": "Seattle",
-        "zipCode": "98108",
-        "neighborhood": ["Queen Anne", "Belltown"],
-        "street": ["Queen Anne Street #1", "Belltown Street #2"],
+        "city": "Bandra",
+        "zipCode": "411002",
+        "neighborhood": ["Bandra height", "sea-link"],
+        "street": ["bandra road", "Near Bandra Station"],
         "location" : {
-            "lat": 47.603230,
-            "lng": -122.330276
+            "lat": 19.076090,
+            "lng": 72.877778
         },
-        "formattedAddress": "5921 17th Ave S, Seattle, WA 98108, USA", 
+        "formattedAddress": "Bandra, Mumbai, Maharashtra 411002, India", 
         "features": ["Air Conditioning", "Barbeque", "Dryer", "Microwave", "Gym", "Swimming Pool", "Sauna", "TV Cable", "WiFi"],
         "featured": true, 
         "priceDollar": {
@@ -232,7 +232,7 @@
         "plans": [
             {
                 "name": "First floor",
-                "desc": "Plan description. Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium magnam veniam sit reprehenderit deserunt ad voluptates id aperiam veritatis! Nobis saepe quos eveniet numquam vitae quis, tenetur consectetur impedit dolore.",
+                "desc": "Conveniently located on the first floor with spacious rooms and excellent natural light. The layout is designed for easy access and functionality, making it ideal for comfortable living. Large windows enhance the bright and airy atmosphere, creating a welcoming environment for residents.",
                 "area": {
                     "value": 1180,
                     "unit": "ft²"
@@ -243,7 +243,7 @@
             },
             {
                 "name": "Second floor",
-                "desc": "Plan description. Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium magnam veniam sit reprehenderit deserunt ad voluptates id aperiam veritatis! Nobis saepe quos eveniet numquam vitae quis, tenetur consectetur impedit dolore.",
+                "desc": "Located on the second floor, this home offers added privacy, ventilation, and a calm living environment. The interior is thoughtfully designed to maximize space and light, providing a comfortable and serene atmosphere. Perfect for those seeking a peaceful retreat away from street-level noise.",
                 "area": {
                     "value": 1200,
                     "unit": "ft²"

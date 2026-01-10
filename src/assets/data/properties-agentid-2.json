@@ -2,18 +2,18 @@
     {
         "id": 1,
         "title": "Modern and quirky flat", 
-        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium magnam veniam sit reprehenderit deserunt ad voluptates id aperiam veritatis! Nobis saepe quos eveniet numquam vitae quis, tenetur consectetur impedit dolore.",
+        "desc": "A thoughtfully designed flat combining modern comfort with quirky, creative touches. The open-plan living area is perfect for entertaining, while the unique decor elements add character and charm. Large windows flood the space with natural light, creating a bright and inviting atmosphere. Ideal for individuals or couples seeking a stylish urban dwelling that stands out from the ordinary.",
         "propertyType": "Apartment",
         "propertyStatus": ["For Sale"],
-        "city": "New York",
-        "zipCode": "10033",
-        "neighborhood": ["Astoria", "Midtown"],
-        "street": ["Astoria Street #1", "Midtown Street #2"],
+        "city": "Mumbai",
+        "zipCode": "614206",
+        "neighborhood": ["mumbai heights", "marine drive"],
+        "street": ["bandra road", "Near Bandra Station"],
         "location" : {
-            "lat": 40.849150,
-            "lng": -73.935100
+            "lat": 19.076090,
+            "lng": 72.877778
         },
-        "formattedAddress" : "611 W 180th St, New York, NY 10033, USA",
+        "formattedAddress" : "Bandra, Mumbai, Maharashtra 614206, India",
         "features": ["Air Conditioning", "Barbeque", "Dryer", "Microwave", "Refrigerator", "Fireplace", "Swimming Pool", "TV Cable", "WiFi"],
         "featured": false, 
         "priceDollar": {
@@ -93,7 +93,7 @@
         "plans": [
             {
                 "name": "First floor",
-                "desc": "Plan description. Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium magnam veniam sit reprehenderit deserunt ad voluptates id aperiam veritatis! Nobis saepe quos eveniet numquam vitae quis, tenetur consectetur impedit dolore.",
+                "desc": "A well-lit second-floor residence with excellent ventilation and open views. The layout is designed to maximize space and light, providing a comfortable and serene living environment. Ideal for those seeking a peaceful home away from street-level noise.",
                 "area": {
                     "value": 1180,
                     "unit": "ft²"
@@ -104,7 +104,7 @@
             },
             {
                 "name": "Second floor",
-                "desc": "Plan description. Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium magnam veniam sit reprehenderit deserunt ad voluptates id aperiam veritatis! Nobis saepe quos eveniet numquam vitae quis, tenetur consectetur impedit dolore.",
+                "desc": "Private and well-ventilated second-floor living. The design focuses on maximizing space and natural light, creating a tranquil and comfortable home environment. Perfect for those looking for a peaceful retreat away from the hustle and bustle of street level.",
                 "area": {
                     "value": 1200,
                     "unit": "ft²"
@@ -131,18 +131,18 @@
     {
         "id": 3,
         "title": "Comfortable family house", 
-        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium magnam veniam sit reprehenderit deserunt ad voluptates id aperiam veritatis! Nobis saepe quos eveniet numquam vitae quis, tenetur consectetur impedit dolore.",
+        "desc": "A comfortable family house offering spacious living and a warm, welcoming environment. The layout includes multiple bedrooms and bathrooms, a modern kitchen, and a cozy living area. Large windows provide ample natural light, creating a bright and airy atmosphere. The property is situated in a friendly neighborhood, perfect for families seeking a safe and convenient home.",
         "propertyType": "House",
         "propertyStatus": ["For Sale", "Open House"],
-        "city": "Seattle",
-        "zipCode": "98104",
-        "neighborhood": ["Belltown"],
-        "street": ["Belltown Street #1", "Belltown Street #2"],
+        "city": "pune",
+        "zipCode": "411001",
+        "neighborhood": ["hinjewadi", "baner"],
+        "street": ["hinjewadi-marunji road", "Near Hinjewadi Phase 1"],
         "location" : {
-            "lat": 47.602760,
-            "lng": -122.331440
+            "lat": 19.076090,
+            "lng": 72.877778
         },
-        "formattedAddress" : "3rd Ave & James St, Seattle, WA 98104, USA", 
+        "formattedAddress" : "Hinjewadi, Pune, Maharashtra 411001, India", 
         "features": ["Air Conditioning", "Barbeque", "Dryer", "Microwave", "Gym", "Fireplace", "Sauna", "TV Cable", "WiFi"],
         "featured": false, 
         "priceDollar": {
@@ -232,7 +232,7 @@
         "plans": [
             {
                 "name": "First floor",
-                "desc": "Plan description. Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium magnam veniam sit reprehenderit deserunt ad voluptates id aperiam veritatis! Nobis saepe quos eveniet numquam vitae quis, tenetur consectetur impedit dolore.",
+                "desc": "An ideal first-floor home with spacious rooms and convenient access for all ages. The layout is designed for functionality and comfort, making it perfect for family living. Large windows enhance the bright and airy atmosphere, creating a welcoming environment for residents.",
                 "area": {
                     "value": 1180,
                     "unit": "ft²"
@@ -243,7 +243,7 @@
             },
             {
                 "name": "Second floor",
-                "desc": "Plan description. Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium magnam veniam sit reprehenderit deserunt ad voluptates id aperiam veritatis! Nobis saepe quos eveniet numquam vitae quis, tenetur consectetur impedit dolore.",
+                "desc": "A modern second-floor home designed for quiet, comfortable living. The layout maximizes space and natural light, providing a serene environment. Perfect for those seeking privacy and tranquility away from street-level activity.",
                 "area": {
                     "value": 1200,
                     "unit": "ft²"
@@ -270,18 +270,18 @@
     {
         "id": 6,
         "title": "Bright and sunny house", 
-        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium magnam veniam sit reprehenderit deserunt ad voluptates id aperiam veritatis! Nobis saepe quos eveniet numquam vitae quis, tenetur consectetur impedit dolore.",
+        "desc": "A beautifully lit home with abundant sunlight and a welcoming, airy atmosphere. The spacious layout includes multiple bedrooms and bathrooms, a modern kitchen, and a comfortable living area. Large windows and glass doors allow natural light to flood the space, creating a bright and cheerful environment. The property is located in a peaceful neighborhood, ideal for those seeking a tranquil and inviting home.",
         "propertyType": "House",
         "propertyStatus": ["For Rent", "No Fees"],
-        "city": "Chicago",
-        "zipCode": "60609",
-        "neighborhood": ["Englewood", "Austin"],
-        "street": ["Englewood Street #2", "Austin Street #2"],
+        "city": "baramati",
+        "zipCode": "412306",
+        "neighborhood": ["pencil chauk", "radhanagar"],
+        "street": ["Indapur road", "Near Baramati Station"],
         "location" : {
-            "lat": 41.814080,
-            "lng": -87.660410
+            "lat": 18.6400,
+            "lng": 73.7900
         },
-        "formattedAddress": "1400 W 44th St, Chicago, IL 60609, USA", 
+        "formattedAddress": "Baramati, Maharashtra 412306, India", 
         "features": ["Refrigerator", "Barbeque", "Dryer", "Microwave", "Gym", "Swimming Pool", "Sauna", "TV Cable", "WiFi"],
         "featured": true, 
         "priceDollar": {
@@ -361,7 +361,7 @@
         "plans": [
             {
                 "name": "First floor",
-                "desc": "Plan description. Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium magnam veniam sit reprehenderit deserunt ad voluptates id aperiam veritatis! Nobis saepe quos eveniet numquam vitae quis, tenetur consectetur impedit dolore.",
+                "desc": "A convenient first-floor home offering easy access, comfort, and everyday practicality. The layout is designed to maximize space and light, creating a welcoming environment for all residents. Large windows enhance the bright and airy atmosphere, making it an ideal living space for families.",
                 "area": {
                     "value": 1180,
                     "unit": "ft²"
@@ -372,7 +372,7 @@
             },
             {
                 "name": "Second floor",
-                "desc": "Plan description. Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium magnam veniam sit reprehenderit deserunt ad voluptates id aperiam veritatis! Nobis saepe quos eveniet numquam vitae quis, tenetur consectetur impedit dolore.",
+                "desc": "Second-floor living designed for calm surroundings and enhanced ventilation. The layout maximizes space and natural light, providing a serene environment. Perfect for those seeking privacy and tranquility away from street-level activity.",
                 "area": {
                     "value": 1200,
                     "unit": "ft²"
@@ -399,18 +399,18 @@
     {
         "id": 7,
         "title": "Luxury office space", 
-        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium magnam veniam sit reprehenderit deserunt ad voluptates id aperiam veritatis! Nobis saepe quos eveniet numquam vitae quis, tenetur consectetur impedit dolore.",
+        "desc": "A high-end office space designed to support productivity, comfort, and corporate excellence. The modern layout includes open work areas, private meeting rooms, and state-of-the-art facilities. Large windows provide ample natural light, creating a bright and motivating environment. The property is located in a prestigious business district, ideal for companies seeking a professional and impressive workspace.",
         "propertyType": "Office",
         "propertyStatus": ["For Sale", "Hot Offer"],
-        "city": "New York",
-        "zipCode": "10019",
-        "neighborhood": ["Englewood", "Austin"],
-        "street": ["Englewood Street #2", "Austin Street #2"],
+        "city": "pune",
+        "zipCode": "412306",
+        "neighborhood": ["bavdhan", "kothrud"],
+        "street": ["mumbai road", "Near pune Station"],
         "location" : {
-            "lat": 40.716761,
-            "lng": -73.999958
+            "lat": 18.6400,
+            "lng": 73.7900
         },
-        "formattedAddress": "230 W 55th St, New York, NY 10019, USA", 
+        "formattedAddress": "Pune, Maharashtra 412306, India", 
         "features": ["Air Conditioning", "Barbeque", "Dryer", "Microwave", "Gym", "Swimming Pool", "Sauna", "TV Cable", "WiFi"],
         "featured": false, 
         "priceDollar": {
@@ -500,7 +500,7 @@
         "plans": [
             {
                 "name": "First floor",
-                "desc": "Plan description. Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium magnam veniam sit reprehenderit deserunt ad voluptates id aperiam veritatis! Nobis saepe quos eveniet numquam vitae quis, tenetur consectetur impedit dolore.",
+                "desc": "Ideal first-floor living with smooth accessibility and comfortable interiors. The design emphasizes functionality and spaciousness, making it suitable for various needs. Large windows allow for plenty of natural light, enhancing the overall ambiance and creating a pleasant living space.",
                 "area": {
                     "value": 1180,
                     "unit": "ft²"
@@ -511,7 +511,7 @@
             },
             {
                 "name": "Second floor",
-                "desc": "Plan description. Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium magnam veniam sit reprehenderit deserunt ad voluptates id aperiam veritatis! Nobis saepe quos eveniet numquam vitae quis, tenetur consectetur impedit dolore.",
+                "desc": "A peaceful second-floor residence providing added privacy, better views, and reduced noise. The layout is designed to optimize space and light, creating a tranquil living environment. Perfect for those seeking a quiet home away from the hustle and bustle of street level.",
                 "area": {
                     "value": 1200,
                     "unit": "ft²"

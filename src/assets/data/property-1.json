@@ -1,19 +1,29 @@
 {
     "id": 1,
     "title": "Modern and quirky flat", 
-    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium magnam veniam sit reprehenderit deserunt ad voluptates id aperiam veritatis! Nobis saepe quos eveniet numquam vitae quis, tenetur consectetur impedit dolore.",
+    "desc": "A stylish and thoughtfully designed apartment featuring contemporary interiors, abundant natural light, and a vibrant layout ideal for modern urban living.",
     "propertyType": "Apartment",
     "propertyStatus": ["For Sale"],
-    "city": "New York",
-    "zipCode": "10033",
-    "neighborhood": ["Astoria", "Midtown"],
-    "street": ["Astoria Street #1", "Midtown Street #2"],
-    "location" : {
-        "lat": 40.849150,
-        "lng": -73.935100
+    "city": "Bengaluru",
+    "zipCode": "560038",
+    "neighborhood": ["Indiranagar", "Domlur"],
+    "street": ["100 Feet Road", "12th Main Road"],
+    "location": {
+        "lat": 12.971891,
+        "lng": 77.641151
     },
-    "formattedAddress" : "611 W 180th St, New York, NY 10033, USA",
-    "features": ["Air Conditioning", "Barbeque", "Dryer", "Microwave", "Refrigerator", "Fireplace", "Swimming Pool", "TV Cable", "WiFi"],
+    "formattedAddress": "100 Feet Road, Indiranagar, Bengaluru, Karnataka 560038, India",
+    "features": [
+        "Air Conditioning",
+        "Barbeque",
+        "Dryer",
+        "Microwave",
+        "Refrigerator",
+        "Fireplace",
+        "Swimming Pool",
+        "TV Cable",
+        "WiFi"
+    ],
     "featured": true, 
     "priceDollar": {
         "sale": 1300000,
@@ -33,7 +43,7 @@
     "yearBuilt": 2007,
     "ratingsCount": 3,
     "ratingsValue": 280,
-    "additionalFeatures": [                
+    "additionalFeatures": [
         {
             "name": "Heat",
             "value": "Natural Gas"
@@ -48,15 +58,15 @@
         },
         {
             "name": "Water",
-            "value": "District/Public"
+            "value": "Municipal Supply"
         },
         {
             "name": "Cross Streets",
-            "value": "Orangethorpe-Gilbert"
+            "value": "100 Feet Road & 12th Main"
         },
         {
             "name": "Windows",
-            "value": "Skylights"
+            "value": "Large Sliding Windows"
         },
         {
             "name": "Flat",
@@ -67,7 +77,7 @@
             "value": "2"
         }
     ],
-    "gallery": [         
+    "gallery": [
         {
             "small": "assets/images/props/flat-1/1-small.jpg",
             "medium": "assets/images/props/flat-1/1-medium.jpg",
@@ -92,7 +102,7 @@
     "plans": [
         {
             "name": "First floor",
-            "desc": "Plan description. Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium magnam veniam sit reprehenderit deserunt ad voluptates id aperiam veritatis! Nobis saepe quos eveniet numquam vitae quis, tenetur consectetur impedit dolore.",
+            "desc": "The first floor offers a welcoming living area, a modern kitchen, and well-planned spaces suitable for daily living and entertaining.",
             "area": {
                 "value": 1180,
                 "unit": "ft²"
@@ -103,7 +113,7 @@
         },
         {
             "name": "Second floor",
-            "desc": "Plan description. Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium magnam veniam sit reprehenderit deserunt ad voluptates id aperiam veritatis! Nobis saepe quos eveniet numquam vitae quis, tenetur consectetur impedit dolore.",
+            "desc": "The second floor includes private bedrooms with ample storage, enhanced ventilation, and a quiet layout designed for comfort and privacy.",
             "area": {
                 "value": 1200,
                 "unit": "ft²"
