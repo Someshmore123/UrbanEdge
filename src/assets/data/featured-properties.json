@@ -1,667 +1,142 @@
 [
-    {
-        "id": 2,
-        "title": "Centrally located office", 
-        "desc": "A well-planned office space ideal for businesses seeking a professional work environment. Strategically located in the heart of the city, this office offers easy access to major transportation routes, making it convenient for both employees and clients. The space is designed to maximize productivity with an open floor plan that encourages collaboration while also providing private meeting rooms for focused discussions. Modern amenities such as high-speed internet, ergonomic furniture, and advanced security systems ensure a comfortable and secure working environment. Large windows allow for ample natural light, creating a bright and inviting atmosphere. Whether you're a startup or an established company, this office space is perfect for fostering growth and success.",
-        "propertyType": "Office",
-        "propertyStatus": ["For Rent", "No Fees"],
-        "city": "Pune",
-        "zipCode": "411001",
-        "neighborhood": ["Hinhewadi IT Park", "Street Of Europe"],
-        "street": ["Hinjewadi-Marunji Road", "Wakad Bridge"],
-        "location" : {
-            "lat": 18.5204,
-            "lng": 73.8567
-        },
-        "formattedAddress" : "Hinjewadi, Pune, Maharashtra 411001, India",
-        "features": ["Air Conditioning", "Barbeque", "Dryer", "Microwave", "Refrigerator", "Fireplace", "Sauna", "TV Cable", "WiFi"], 
-        "featured": true,
-        "priceDollar": {
-            "sale": null,
-            "rent": 6500
-        },
-        "priceEuro": {
-            "sale": null,
-            "rent": 5800
-        },
-        "bedrooms": 4,
-        "bathrooms": 2,
-        "garages": 2,
-        "area": {
-            "value": 1500,
-            "unit": "ft²"
-        },
-        "yearBuilt": 2012,
-        "ratingsCount": 4,
-        "ratingsValue": 400,
-        "additionalFeatures": [                
-            {
-                "name": "Heat",
-                "value": "Natural Gas"
-            },
-            {
-                "name": "Roof",
-                "value": "Composition/Shingle"
-            },
-            {
-                "name": "Floors",
-                "value": "Wall-to-Wall Carpet"
-            },
-            {
-                "name": "Water",
-                "value": "District/Public"
-            },
-            {
-                "name": "Cross Streets",
-                "value": "Orangethorpe-Gilbert"
-            },
-            {
-                "name": "Windows",
-                "value": "Skylights"
-            },
-            {
-                "name": "Flat",
-                "value": "5"
-            },
-            {
-                "name": "Childroom",
-                "value": "2"
-            }
-        ],
-        "gallery": [
-            {
-                "small": "assets/images/props/office/1-small.jpg",
-                "medium": "assets/images/props/office/1-medium.jpg",
-                "big": "assets/images/props/office/1-big.jpg"
-            },
-            {
-                "small": "assets/images/props/office/2-small.jpg",
-                "medium": "assets/images/props/office/2-medium.jpg",
-                "big": "assets/images/props/office/2-big.jpg"
-            },
-            {
-                "small": "assets/images/props/office/3-small.jpg",
-                "medium": "assets/images/props/office/3-medium.jpg",
-                "big": "assets/images/props/office/3-big.jpg"
-            },
-            {
-                "small": "assets/images/props/office/4-small.jpg",
-                "medium": "assets/images/props/office/4-medium.jpg",
-                "big": "assets/images/props/office/4-big.jpg"
-            },
-            {
-                "small": "assets/images/props/office/5-small.jpg",
-                "medium": "assets/images/props/office/5-medium.jpg",
-                "big": "assets/images/props/office/5-big.jpg"
-            },
-            {
-                "small": "assets/images/props/office/6-small.jpg",
-                "medium": "assets/images/props/office/6-medium.jpg",
-                "big": "assets/images/props/office/6-big.jpg"
-            }
-        ],
-        "plans": [
-            {
-                "name": "First floor",
-                "desc": "A bright and peaceful first-floor residence with enhanced views and reduced street noise. Perfect for those seeking a tranquil living space within an urban setting. The layout is thoughtfully designed to maximize natural light and create a comfortable atmosphere. Ideal for individuals or small families looking for a cozy home away from the hustle and bustle of city life.",
-                "area": {
-                    "value": 1180,
-                    "unit": "ft²"
-                },
-                "rooms": 3,
-                "baths": 1,
-                "image": "assets/images/others/plan-1.jpg"
-            },
-            {
-                "name": "Second floor",
-                "desc": "Located on the second floor, this home offers added privacy, ventilation, and a calm living environment. The elevated position provides better views of the surrounding area while minimizing street-level disturbances. The interior is designed to optimize space and light, making it an ideal choice for those who value a peaceful retreat in the heart of the city.",
-                "area": {
-                    "value": 1200,
-                    "unit": "ft²"
-                },
-                "rooms": 5,
-                "baths": 2,
-                "image": "assets/images/others/plan-2.jpg"
-            }
-        ],
-        "videos": [
-            {
-                "name": "Video",
-                "link": "http://themeseason.com/data/videos/video-1.mp4"
-            },
-            {
-                "name": "Video with 'EmbedVideoService'",
-                "link": "https://www.youtube.com/watch?v=-NInBEdSvp8"
-            }
-        ],
-        "published": "2013-09-12 12:20:30",
-        "lastUpdate": "2019-05-20 14:20:00",
-        "views": 408
-    },
-    {
-        "id": 4,
-        "title": "Spacious and warm flat", 
-        "desc": "A spacious, warm flat designed for relaxed living with ample natural light and comfort. The open floor plan creates a welcoming atmosphere, perfect for both entertaining guests and enjoying quiet evenings. Large windows allow sunlight to flood the space, enhancing the cozy ambiance. The flat features modern amenities and thoughtful design elements that cater to everyday needs while maintaining a stylish aesthetic. Ideal for individuals or families seeking a comfortable and inviting home environment.",
-        "propertyType": "Apartment",
-        "propertyStatus": ["Hot Offer", "No Fees"],
-        "city": "Thane",
-        "zipCode": "611012",
-        "neighborhood": ["Dadar"],
-        "street": ["Dadar-panvel Road"],
-        "location" : {
-            "lat": 18.5204,
-            "lng": 73.8567
-        },
-        "formattedAddress": "Thane Station, Thane, Maharashtra 411001, India", 
-        "features": ["Air Conditioning", "Barbeque", "Dryer", "Microwave", "Gym", "Fireplace", "Sauna", "TV Cable", "WiFi"],
-        "featured": true, 
-        "priceDollar": {
-            "sale": 1450000,
-            "rent": null
-        },
-        "priceEuro": {
-            "sale": 1300000,
-            "rent": null
-        },
-        "bedrooms": 5,
-        "bathrooms": 2,
-        "garages": 2,
-        "area": {
-            "value": 1700,
-            "unit": "ft²"
-        },
-        "yearBuilt": 2002,
-        "ratingsCount": 3,
-        "ratingsValue": 220,
-        "additionalFeatures": [                
-            {
-                "name": "Heat",
-                "value": "Natural Gas"
-            },
-            {
-                "name": "Roof",
-                "value": "Composition/Shingle"
-            },
-            {
-                "name": "Floors",
-                "value": "Wall-to-Wall Carpet"
-            },
-            {
-                "name": "Water",
-                "value": "District/Public"
-            },
-            {
-                "name": "Cross Streets",
-                "value": "Orangethorpe-Gilbert"
-            },
-            {
-                "name": "Windows",
-                "value": "Skylights"
-            },
-            {
-                "name": "Flat",
-                "value": "5"
-            },
-            {
-                "name": "Childroom",
-                "value": "2"
-            }
-        ],
-        "gallery": [
-            {
-                "small": "assets/images/props/flat-2/1-small.jpg",
-                "medium": "assets/images/props/flat-2/1-medium.jpg",
-                "big": "assets/images/props/flat-2/1-big.jpg"
-            },
-            {
-                "small": "assets/images/props/flat-2/2-small.jpg",
-                "medium": "assets/images/props/flat-2/2-medium.jpg",
-                "big": "assets/images/props/flat-2/2-big.jpg"
-            },
-            {
-                "small": "assets/images/props/flat-2/3-small.jpg",
-                "medium": "assets/images/props/flat-2/3-medium.jpg",
-                "big": "assets/images/props/flat-2/3-big.jpg"
-            },
-            {
-                "small": "assets/images/props/flat-2/4-small.jpg",
-                "medium": "assets/images/props/flat-2/4-medium.jpg",
-                "big": "assets/images/props/flat-2/4-big.jpg"
-            },
-            {
-                "small": "assets/images/props/flat-2/5-small.jpg",
-                "medium": "assets/images/props/flat-2/5-medium.jpg",
-                "big": "assets/images/props/flat-2/5-big.jpg"
-            }
-        ],
-        "plans": [
-            {
-                "name": "First floor",
-                "desc": "Conveniently located on the first floor with spacious rooms and excellent natural light. Ideal for those seeking easy access and a comfortable living environment. The layout is designed to maximize space and functionality, making it perfect for individuals or families looking for a cozy home.",
-                "area": {
-                    "value": 1180,
-                    "unit": "ft²"
-                },
-                "rooms": 3,
-                "baths": 1,
-                "image": "assets/images/others/plan-1.jpg"
-            },
-            {
-                "name": "Second floor",
-                "desc": "Located on the second floor, this home offers added privacy, ventilation, and a calm living environment. The elevated position provides better views of the surrounding area while minimizing street-level disturbances. The interior is designed to optimize space and light, making it an ideal choice for those who value a peaceful retreat in the heart of the city.",
-                "area": {
-                    "value": 1200,
-                    "unit": "ft²"
-                },
-                "rooms": 5,
-                "baths": 2,
-                "image": "assets/images/others/plan-2.jpg"
-            }
-        ],
-        "videos": [
-            {
-                "name": "Video",
-                "link": "http://themeseason.com/data/videos/video-1.mp4"
-            },
-            {
-                "name": "Video with 'EmbedVideoService'",
-                "link": "https://www.youtube.com/watch?v=-NInBEdSvp8"
-            }
-        ],
-        "published": "2016-10-12 18:20:00",
-        "lastUpdate": "2019-06-11 14:20:00",
-        "views": 754
-    },
-    {
-        "id": 5,
-        "title": "House with a pool", 
-        "desc": "An elegant home with a private swimming pool, offering luxury, comfort, and leisure. The spacious design features large windows that provide stunning views of the pool area, creating a serene and inviting atmosphere. The outdoor space is perfect for entertaining guests or enjoying peaceful moments by the water. Inside, the home boasts modern amenities and stylish finishes that enhance the overall living experience. Ideal for families or individuals seeking a blend of sophistication and relaxation in their living space.",
-        "propertyType": "House",
-        "propertyStatus": ["Sold", "For Sale"],
-        "city": "Mumbai",
-        "zipCode": "410402",
-        "neighborhood": ["Twin Tower", "Marine Drive"],
-        "street": ["Bandra road", "Linking Road"],
-        "location" : {
-            "lat": 47.603230,
-            "lng": -122.330276
-        },
-        "formattedAddress": "Bandra West, Mumbai, Maharashtra 400050, India", 
-        "features": ["Air Conditioning", "Barbeque", "Dryer", "Microwave", "Gym", "Swimming Pool", "Sauna", "TV Cable", "WiFi"],
-        "featured": true, 
-        "priceDollar": {
-            "sale": 4500000,
-            "rent": null
-        },
-        "priceEuro": {
-            "sale": 4020000,
-            "rent": null
-        },
-        "bedrooms": 1,
-        "bathrooms": 1,
-        "garages": 1,
-        "area": {
-            "value": 2200,
-            "unit": "ft²"
-        },
-        "yearBuilt": 2007,
-        "ratingsCount": 6,
-        "ratingsValue": 480,
-        "additionalFeatures": [                
-            {
-                "name": "Heat",
-                "value": "Natural Gas"
-            },
-            {
-                "name": "Roof",
-                "value": "Composition/Shingle"
-            },
-            {
-                "name": "Floors",
-                "value": "Wall-to-Wall Carpet"
-            },
-            {
-                "name": "Water",
-                "value": "District/Public"
-            },
-            {
-                "name": "Cross Streets",
-                "value": "Orangethorpe-Gilbert"
-            },
-            {
-                "name": "Windows",
-                "value": "Skylights"
-            },
-            {
-                "name": "Flat",
-                "value": "5"
-            },
-            {
-                "name": "Childroom",
-                "value": "2"
-            }
-        ],
-        "gallery": [
-            {
-                "small": "assets/images/props/house-3/1-small.jpg",
-                "medium": "assets/images/props/house-3/1-medium.jpg",
-                "big": "assets/images/props/house-3/1-big.jpg"
-            },
-            {
-                "small": "assets/images/props/house-3/2-small.jpg",
-                "medium": "assets/images/props/house-3/2-medium.jpg",
-                "big": "assets/images/props/house-3/2-big.jpg"
-            },
-            {
-                "small": "assets/images/props/house-3/3-small.jpg",
-                "medium": "assets/images/props/house-3/3-medium.jpg",
-                "big": "assets/images/props/house-3/3-big.jpg"
-            },
-            {
-                "small": "assets/images/props/house-3/4-small.jpg",
-                "medium": "assets/images/props/house-3/4-medium.jpg",
-                "big": "assets/images/props/house-3/4-big.jpg"
-            }
-        ],
-        "plans": [
-            {
-                "name": "First floor",
-                "desc": "A comfortable first-floor home offering easy access and everyday convenience. The layout is designed to maximize space and functionality, making it perfect for individuals or families looking for a cozy living environment. Large windows provide ample natural light, creating a bright and welcoming atmosphere.",
-                "area": {
-                    "value": 1180,
-                    "unit": "ft²"
-                },
-                "rooms": 3,
-                "baths": 1,
-                "image": "assets/images/others/plan-1.jpg"
-            },
-            {
-                "name": "Second floor",
-                "desc": "A well-lit second-floor residence with excellent ventilation and open views. Ideal for those seeking a peaceful living space away from street-level noise. The interior is thoughtfully designed to optimize space and light, providing a comfortable and serene home environment.",
-                "area": {
-                    "value": 1200,
-                    "unit": "ft²"
-                },
-                "rooms": 5,
-                "baths": 2,
-                "image": "assets/images/others/plan-2.jpg"
-            }
-        ],
-        "videos": [
-            {
-                "name": "Video",
-                "link": "http://themeseason.com/data/videos/video-1.mp4"
-            },
-            {
-                "name": "Video with 'EmbedVideoService'",
-                "link": "https://www.youtube.com/watch?v=-NInBEdSvp8"
-            }
-        ],
-        "published": "2017-11-20 10:20:00",
-        "lastUpdate": "2019-04-14 14:20:00",
-        "views": 633
-    },
-    {
-        "id": 6,
-        "title": "Bright and sunny house", 
-        "desc": "A bright and sunny house filled with natural light, offering a cheerful and comfortable living space. The open floor plan enhances the airy atmosphere, making it perfect for both relaxation and entertaining guests. Large windows throughout the home allow sunlight to flood in, creating a warm and inviting ambiance. The house is designed with modern amenities and thoughtful details that cater to everyday living while maintaining a stylish aesthetic. Ideal for individuals or families seeking a vibrant and welcoming home environment.",
-        "propertyType": "House",
-        "propertyStatus": ["For Rent", "No Fees"],
-        "city": "Baramati",
-        "zipCode": "412306",
-        "neighborhood": ["Pencil Chauk", "Airport Road"],
-        "street": ["Indapur road", "Kedgaon road"],
-        "location" : {
-            "lat": 19.076090,
-            "lng": -87.660410
-        },
-        "formattedAddress": "Baramati, Maharashtra 412306, India", 
-        "features": ["Refrigerator", "Barbeque", "Dryer", "Microwave", "Gym", "Swimming Pool", "Sauna", "TV Cable", "WiFi"],
-        "featured": true, 
-        "priceDollar": {
-            "sale": null,
-            "rent": 9000
-        },
-        "priceEuro": {
-            "sale": null,
-            "rent": 8000
-        },
-        "bedrooms": 2,
-        "bathrooms": 2,
-        "garages": 1,
-        "area": {
-            "value": 1600,
-            "unit": "ft²"
-        },
-        "yearBuilt": 2017,
-        "ratingsCount": 5,
-        "ratingsValue": 400,
-        "additionalFeatures": [                
-            {
-                "name": "Heat",
-                "value": "Natural Gas"
-            },
-            {
-                "name": "Roof",
-                "value": "Composition/Shingle"
-            },
-            {
-                "name": "Floors",
-                "value": "Wall-to-Wall Carpet"
-            },
-            {
-                "name": "Water",
-                "value": "District/Public"
-            },
-            {
-                "name": "Cross Streets",
-                "value": "Orangethorpe-Gilbert"
-            },
-            {
-                "name": "Windows",
-                "value": "Skylights"
-            },
-            {
-                "name": "Flat",
-                "value": "5"
-            },
-            {
-                "name": "Childroom",
-                "value": "2"
-            }
-        ],
-        "gallery": [
-            {
-                "small": "assets/images/props/house-2/1-small.jpg",
-                "medium": "assets/images/props/house-2/1-medium.jpg",
-                "big": "assets/images/props/house-2/1-big.jpg"
-            },
-            {
-                "small": "assets/images/props/house-2/2-small.jpg",
-                "medium": "assets/images/props/house-2/2-medium.jpg",
-                "big": "assets/images/props/house-2/2-big.jpg"
-            },
-            {
-                "small": "assets/images/props/house-2/3-small.jpg",
-                "medium": "assets/images/props/house-2/3-medium.jpg",
-                "big": "assets/images/props/house-2/3-big.jpg"
-            },
-            {
-                "small": "assets/images/props/house-2/4-small.jpg",
-                "medium": "assets/images/props/house-2/4-medium.jpg",
-                "big": "assets/images/props/house-2/4-big.jpg"
-            }
-        ],
-        "plans": [
-            {
-                "name": "First floor",
-                "desc": "An ideal first-floor home with spacious rooms and convenient access for all ages. The layout is designed to maximize functionality and comfort, making it perfect for individuals or families seeking a cozy living space. Large windows provide ample natural light, creating a bright and welcoming atmosphere.",
-                "area": {
-                    "value": 1180,
-                    "unit": "ft²"
-                },
-                "rooms": 3,
-                "baths": 1,
-                "image": "assets/images/others/plan-1.jpg"
-            },
-            {
-                "name": "Second floor",
-                "desc": "Private and well-ventilated second-floor living. Ideal for those seeking a peaceful retreat away from street-level noise. The interior is thoughtfully designed to optimize space and light, providing a comfortable and serene home environment.",
-                "area": {
-                    "value": 1200,
-                    "unit": "ft²"
-                },
-                "rooms": 5,
-                "baths": 2,
-                "image": "assets/images/others/plan-2.jpg"
-            }
-        ],
-        "videos": [
-            {
-                "name": "Video",
-                "link": "http://themeseason.com/data/videos/video-1.mp4"
-            },
-            {
-                "name": "Video with 'EmbedVideoService'",
-                "link": "https://www.youtube.com/watch?v=-NInBEdSvp8"
-            }
-        ],
-        "published": "2013-11-19 18:20:00",
-        "lastUpdate": "2019-06-08 14:20:00",
-        "views": 256
-    },
-    {
-        "id": 8,
-        "title": "Centrally located apartment", 
-        "desc": "A centrally located apartment offering easy access to shopping, transport, and key city attractions. This well-designed living space features an open floor plan that maximizes natural light and provides a comfortable atmosphere for both relaxation and entertaining. The apartment is equipped with modern amenities, including a fully-equipped kitchen, spacious bedrooms, and contemporary bathrooms. Ideal for individuals or families seeking a vibrant urban lifestyle, this apartment combines convenience with comfort in a prime location.",
-        "propertyType": "Apartment",
-        "propertyStatus": ["For Rent", "No Fees"],
-        "city": "solapur",
-        "zipCode": "411604",
-        "neighborhood": ["season mall", "pandharpur road"],
-        "street": ["Samrudhhi Mahamarg", "Near Season Mall"],
-        "location" : {
-            "lat": 34.100570,
-            "lng": -118.327440
-        },
-        "formattedAddress": "Solapur, Maharashtra 411004, India", 
-        "features": ["Air Conditioning", "Refrigerator", "Dryer", "Microwave", "Gym", "Swimming Pool", "Sauna", "TV Cable", "WiFi"],
-        "featured": true, 
-        "priceDollar": {
-            "sale": null,
-            "rent": 5600
-        },
-        "priceEuro": {
-            "sale": null,
-            "rent": 5000
-        },
-        "bedrooms": 2,
-        "bathrooms": 2,
-        "garages": 1,
-        "area": {
-            "value": 1600,
-            "unit": "ft²"
-        },
-        "yearBuilt": 2017,
-        "ratingsCount": 4,
-        "ratingsValue": 380,
-        "additionalFeatures": [                
-            {
-                "name": "Heat",
-                "value": "Natural Gas"
-            },
-            {
-                "name": "Roof",
-                "value": "Composition/Shingle"
-            },
-            {
-                "name": "Floors",
-                "value": "Wall-to-Wall Carpet"
-            },
-            {
-                "name": "Water",
-                "value": "District/Public"
-            },
-            {
-                "name": "Cross Streets",
-                "value": "Orangethorpe-Gilbert"
-            },
-            {
-                "name": "Windows",
-                "value": "Skylights"
-            },
-            {
-                "name": "Flat",
-                "value": "5"
-            },
-            {
-                "name": "Childroom",
-                "value": "2"
-            }
-        ],
-        "gallery": [
-            {
-                "small": "assets/images/props/apartment/1-small.jpg",
-                "medium": "assets/images/props/apartment/1-medium.jpg",
-                "big": "assets/images/props/apartment/1-big.jpg"
-            },
-            {
-                "small": "assets/images/props/apartment/2-small.jpg",
-                "medium": "assets/images/props/apartment/2-medium.jpg",
-                "big": "assets/images/props/apartment/2-big.jpg"
-            },
-            {
-                "small": "assets/images/props/apartment/3-small.jpg",
-                "medium": "assets/images/props/apartment/3-medium.jpg",
-                "big": "assets/images/props/apartment/3-big.jpg"
-            },
-            {
-                "small": "assets/images/props/apartment/4-small.jpg",
-                "medium": "assets/images/props/apartment/4-medium.jpg",
-                "big": "assets/images/props/apartment/4-big.jpg"
-            },
-            {
-                "small": "assets/images/props/apartment/5-small.jpg",
-                "medium": "assets/images/props/apartment/5-medium.jpg",
-                "big": "assets/images/props/apartment/5-big.jpg"
-            }
-        ],
-        "plans": [
-            {
-                "name": "First floor",
-                "desc": "Easy-access first-floor living with comfort and space. The layout is designed to maximize functionality, making it perfect for individuals or families seeking a cozy home. Large windows provide ample natural light, creating a bright and welcoming atmosphere.",
-                "area": {
-                    "value": 1180,
-                    "unit": "ft²"
-                },
-                "rooms": 3,
-                "baths": 1,
-                "image": "assets/images/others/plan-1.jpg"
-            },
-            {
-                "name": "Second floor",
-                "desc": "Private and well-ventilated second-floor living. Ideal for those seeking a peaceful retreat away from street-level noise. The interior is thoughtfully designed to optimize space and light, providing a comfortable and serene home environment.",
-                "area": {
-                    "value": 1200,
-                    "unit": "ft²"
-                },
-                "rooms": 5,
-                "baths": 2,
-                "image": "assets/images/others/plan-2.jpg"
-            }
-        ],
-        "videos": [
-            {
-                "name": "Video",
-                "link": "http://themeseason.com/data/videos/video-1.mp4"
-            },
-            {
-                "name": "Video with 'EmbedVideoService'",
-                "link": "https://www.youtube.com/watch?v=-NInBEdSvp8"
-            }
-        ],
-        "published": "2016-03-29 05:20:00",
-        "lastUpdate": "2019-06-26 14:20:00",
-        "views": 852
-    }    
+  {
+    "id": 2,
+    "title": "Centrally located office",
+    "desc": "A well-planned office space ideal for businesses seeking a professional work environment.",
+    "propertyType": "Office",
+    "propertyStatus": ["For Rent", "No Fees"],
+    "city": "Pune",
+    "zipCode": "411001",
+    "formattedAddress": "Hinjewadi, Pune, Maharashtra 411001, India",
+    "featured": true,
+    "image": "assets/images/props/office/1-medium.jpg",
+    "priceDollar": { "sale": null, "rent": 6500 },
+    "priceEuro": { "sale": null, "rent": 5800 },
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "garages": 2,
+    "area": { "value": 1500, "unit": "ft²" },
+    "ratingsCount": 4,
+    "ratingsValue": 400,
+    "gallery": [
+      {
+        "small": "assets/images/props/office/1-small.jpg",
+        "medium": "assets/images/props/office/1-medium.jpg",
+        "big": "assets/images/props/office/1-big.jpg"
+      }
+    ],
+    "published": "2013-09-12 12:20:30"
+  },
+  {
+    "id": 4,
+    "title": "Spacious and warm flat",
+    "desc": "A spacious, warm flat designed for relaxed living.",
+    "propertyType": "Apartment",
+    "propertyStatus": ["Hot Offer", "No Fees"],
+    "city": "Thane",
+    "zipCode": "611012",
+    "formattedAddress": "Thane Station, Thane, Maharashtra 411001, India",
+    "featured": true,
+    "image": "assets/images/props/flat-2/1-medium.jpg",
+    "priceDollar": { "sale": 1450000, "rent": null },
+    "priceEuro": { "sale": 1300000, "rent": null },
+    "bedrooms": 5,
+    "bathrooms": 2,
+    "garages": 2,
+    "area": { "value": 1700, "unit": "ft²" },
+    "ratingsCount": 3,
+    "ratingsValue": 220,
+    "gallery": [
+      {
+        "small": "assets/images/props/flat-2/1-small.jpg",
+        "medium": "assets/images/props/flat-2/1-medium.jpg",
+        "big": "assets/images/props/flat-2/1-big.jpg"
+      }
+    ],
+    "published": "2016-10-12 18:20:00"
+  },
+  {
+    "id": 5,
+    "title": "House with a pool",
+    "desc": "An elegant home with a private swimming pool.",
+    "propertyType": "House",
+    "propertyStatus": ["Sold", "For Sale"],
+    "city": "Mumbai",
+    "zipCode": "410402",
+    "formattedAddress": "Bandra West, Mumbai, Maharashtra 400050, India",
+    "featured": true,
+    "image": "assets/images/props/house-3/1-medium.jpg",
+    "priceDollar": { "sale": 4500000, "rent": null },
+    "priceEuro": { "sale": 4020000, "rent": null },
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "garages": 1,
+    "area": { "value": 2200, "unit": "ft²" },
+    "ratingsCount": 6,
+    "ratingsValue": 480,
+    "gallery": [
+      {
+        "small": "assets/images/props/house-3/1-small.jpg",
+        "medium": "assets/images/props/house-3/1-medium.jpg",
+        "big": "assets/images/props/house-3/1-big.jpg"
+      }
+    ],
+    "published": "2017-11-20 10:20:00"
+  },
+  {
+    "id": 6,
+    "title": "Bright and sunny house",
+    "desc": "A bright and sunny house filled with natural light.",
+    "propertyType": "House",
+    "propertyStatus": ["For Rent", "No Fees"],
+    "city": "Baramati",
+    "zipCode": "412306",
+    "formattedAddress": "Baramati, Maharashtra 412306, India",
+    "featured": true,
+    "image": "assets/images/props/house-2/1-medium.jpg",
+    "priceDollar": { "sale": null, "rent": 9000 },
+    "priceEuro": { "sale": null, "rent": 8000 },
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "garages": 1,
+    "area": { "value": 1600, "unit": "ft²" },
+    "ratingsCount": 5,
+    "ratingsValue": 400,
+    "gallery": [
+      {
+        "small": "assets/images/props/house-2/1-small.jpg",
+        "medium": "assets/images/props/house-2/1-medium.jpg",
+        "big": "assets/images/props/house-2/1-big.jpg"
+      }
+    ],
+    "published": "2013-11-19 18:20:00"
+  },
+  {
+    "id": 8,
+    "title": "Centrally located apartment",
+    "desc": "A centrally located apartment offering easy access.",
+    "propertyType": "Apartment",
+    "propertyStatus": ["For Rent", "No Fees"],
+    "city": "Solapur",
+    "zipCode": "411604",
+    "formattedAddress": "Solapur, Maharashtra 411004, India",
+    "featured": true,
+    "image": "assets/images/props/apartment/1-medium.jpg",
+    "priceDollar": { "sale": null, "rent": 5600 },
+    "priceEuro": { "sale": null, "rent": 5000 },
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "garages": 1,
+    "area": { "value": 1600, "unit": "ft²" },
+    "ratingsCount": 4,
+    "ratingsValue": 380,
+    "gallery": [
+      {
+        "small": "assets/images/props/apartment/1-small.jpg",
+        "medium": "assets/images/props/apartment/1-medium.jpg",
+        "big": "assets/images/props/apartment/1-big.jpg"
+      }
+    ],
+    "published": "2016-03-29 05:20:00"
+  }
 ]

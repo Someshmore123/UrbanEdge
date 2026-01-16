@@ -1,188 +1,1062 @@
 [
-  {
+    { 
     "id": 1,
     "title": "Modern and quirky flat",
-    "desc": "A stylish apartment with modern interiors, smart layouts, and a vibrant neighborhood ideal for urban living.",
+    "desc": "A stylish modern apartment located in a vibrant residential area, offering contemporary interiors, excellent ventilation, and easy access to local markets, schools, and public transport.",
     "propertyType": "Apartment",
     "propertyStatus": ["For Sale"],
     "city": "Mumbai",
-    "zipCode": "400053",
-    "neighborhood": ["Andheri West", "Lokhandwala"],
-    "street": ["Lokhandwala Complex Rd", "SV Road"],
-    "location": { "lat": 19.13643, "lng": 72.82607 },
-    "formattedAddress": "Lokhandwala Complex, Andheri West, Mumbai, Maharashtra 400053, India",
-    "features": ["Air Conditioning", "Barbeque", "Dryer", "Microwave", "Refrigerator", "Fireplace", "Swimming Pool", "TV Cable", "WiFi"],
-    "featured": false,
-    "priceDollar": { "sale": 1300000, "rent": null },
-    "priceEuro": { "sale": 1160000, "rent": null },
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "garages": 1,
-    "area": { "value": 2380, "unit": "ft²" },
-    "yearBuilt": 2007,
-    "ratingsCount": 3,
-    "ratingsValue": 280,
-    "additionalFeatures": [],
-    "gallery": [],
-    "plans": [],
-    "videos": [],
-    "published": "2012-08-12 17:17:30",
-    "lastUpdate": "2019-05-20 14:20:00",
-    "views": 322
-  },
-  {
-    "id": 2,
+    "zipCode": "400001",
+    "neighborhood": ["Colaba", "Fort"],
+    "street": ["Colaba Causeway", "Fort Street"],
+    "location": {
+      "lat": 18.921984,
+      "lng": 72.833042
+    },
+        "formattedAddress" : "Colaba Causeway, Mumbai, Maharashtra 400001, India",
+        "features": ["Air Conditioning", "Barbeque", "Dryer", "Microwave", "Refrigerator", "Fireplace", "Swimming Pool", "TV Cable", "WiFi"],
+        "featured": false, 
+        "priceDollar": {
+            "sale": 1300000,
+            "rent": null
+        },
+        "priceEuro": {
+            "sale": 1160000,
+            "rent": null
+        },
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "garages": 1,
+        "area": {
+            "value": 2380,
+            "unit": "ft²"
+        },
+        "yearBuilt": 2007,
+        "ratingsCount": 3,
+        "ratingsValue": 280,
+        "additionalFeatures": [                
+            {
+                "name": "Heat",
+                "value": "Natural Gas"
+            },
+            {
+                "name": "Roof",
+                "value": "Composition/Shingle"
+            },
+            {
+                "name": "Floors",
+                "value": "Wall-to-Wall Carpet"
+            },
+            {
+                "name": "Water",
+                "value": "District/Public"
+            },
+            {
+                "name": "Cross Streets",
+                "value": "Orangethorpe-Gilbert"
+            },
+            {
+                "name": "Windows",
+                "value": "Skylights"
+            },
+            {
+                "name": "Flat",
+                "value": "5"
+            },
+            {
+                "name": "Childroom",
+                "value": "2"
+            }
+        ],
+        "gallery": [         
+            {
+                "small": "assets/images/props/flat-1/1-small.jpg",
+                "medium": "assets/images/props/flat-1/1-medium.jpg",
+                "big": "assets/images/props/flat-1/1-big.jpg"
+            },
+            {
+                "small": "assets/images/props/flat-1/2-small.jpg",
+                "medium": "assets/images/props/flat-1/2-medium.jpg",
+                "big": "assets/images/props/flat-1/2-big.jpg"
+            },
+            {
+                "small": "assets/images/props/flat-1/3-small.jpg",
+                "medium": "assets/images/props/flat-1/3-medium.jpg",
+                "big": "assets/images/props/flat-1/3-big.jpg"
+            },
+            {
+                "small": "assets/images/props/flat-1/4-small.jpg",
+                "medium": "assets/images/props/flat-1/4-medium.jpg",
+                "big": "assets/images/props/flat-1/4-big.jpg"
+            }
+        ],
+        "plans": [
+            {
+                "name": "First floor",
+                "desc": "The first floor offers a welcoming living area, a modern kitchen, and well-planned spaces suitable for daily living and entertaining.",
+                "area": {
+                    "value": 1180,
+                    "unit": "ft²"
+                },
+                "rooms": 3,
+                "baths": 1,
+                "image": "assets/images/others/plan-1.jpg"
+            },
+            {
+                "name": "Second floor",
+                "desc": "The second floor includes private bedrooms with ample storage, enhanced ventilation, and a quiet layout designed for comfort and privacy.",
+                "area": {
+                    "value": 1200,
+                    "unit": "ft²"
+                },
+                "rooms": 5,
+                "baths": 2,
+                "image": "assets/images/others/plan-2.jpg"
+            }
+        ],
+        "videos": [
+            {
+                "name": "Video",
+                "link": "http://themeseason.com/data/videos/video-1.mp4"
+            },
+            {
+                "name": "Video with 'EmbedVideoService'",
+                "link": "https://www.youtube.com/watch?v=-NInBEdSvp8"
+            }
+        ],
+        "published": "2012-08-12 17:17:30",
+        "lastUpdate": "2019-05-20 14:20:00",
+        "views": 322
+    },
+    {
+         "id": 2,
     "title": "Centrally located office",
-    "desc": "Premium office space located in the city center with excellent connectivity and modern business facilities.",
+    "desc": "A premium commercial office space situated in a prime business district, ideal for startups and established enterprises, with excellent road connectivity and nearby amenities.",
     "propertyType": "Office",
     "propertyStatus": ["For Rent", "No Fees"],
     "city": "Bengaluru",
     "zipCode": "560001",
     "neighborhood": ["MG Road", "Brigade Road"],
-    "street": ["MG Road", "Church Street"],
-    "location": { "lat": 12.9756, "lng": 77.605 },
-    "formattedAddress": "MG Road, Bengaluru, Karnataka 560001, India",
-    "features": [],
-    "featured": true,
-    "priceDollar": { "sale": null, "rent": 6500 },
-    "priceEuro": { "sale": null, "rent": 5800 },
-    "bedrooms": 4,
-    "bathrooms": 2,
-    "garages": 2,
-    "area": { "value": 1500, "unit": "ft²" },
-    "yearBuilt": 2012,
-    "ratingsCount": 4,
-    "ratingsValue": 400,
-    "additionalFeatures": [],
-    "gallery": [],
-    "plans": [],
-    "videos": [],
-    "published": "2013-09-12 12:20:30",
-    "lastUpdate": "2019-05-20 14:20:00",
-    "views": 408
-  },
-  {
-    "id": 3,
+    "street": ["MG Road", "Brigade Road"],
+    "location": {
+      "lat": 12.975654,
+      "lng": 77.605941
+    },
+        "formattedAddress" : "MG Road, Bengaluru, Karnataka 560001, India",
+        "features": ["Air Conditioning", "Barbeque", "Dryer", "Microwave", "Refrigerator", "Fireplace", "Sauna", "TV Cable", "WiFi"], 
+        "featured": true,
+        "priceDollar": {
+            "sale": null,
+            "rent": 6500
+        },
+        "priceEuro": {
+            "sale": null,
+            "rent": 5800
+        },
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "garages": 2,
+        "area": {
+            "value": 1500,
+            "unit": "ft²"
+        },
+        "yearBuilt": 2012,
+        "ratingsCount": 4,
+        "ratingsValue": 400,
+        "additionalFeatures": [                
+            {
+                "name": "Heat",
+                "value": "Natural Gas"
+            },
+            {
+                "name": "Roof",
+                "value": "Composition/Shingle"
+            },
+            {
+                "name": "Floors",
+                "value": "Wall-to-Wall Carpet"
+            },
+            {
+                "name": "Water",
+                "value": "District/Public"
+            },
+            {
+                "name": "Cross Streets",
+                "value": "Orangethorpe-Gilbert"
+            },
+            {
+                "name": "Windows",
+                "value": "Skylights"
+            },
+            {
+                "name": "Flat",
+                "value": "5"
+            },
+            {
+                "name": "Childroom",
+                "value": "2"
+            }
+        ],
+        "gallery": [
+            {
+                "small": "assets/images/props/office/1-small.jpg",
+                "medium": "assets/images/props/office/1-medium.jpg",
+                "big": "assets/images/props/office/1-big.jpg"
+            },
+            {
+                "small": "assets/images/props/office/2-small.jpg",
+                "medium": "assets/images/props/office/2-medium.jpg",
+                "big": "assets/images/props/office/2-big.jpg"
+            },
+            {
+                "small": "assets/images/props/office/3-small.jpg",
+                "medium": "assets/images/props/office/3-medium.jpg",
+                "big": "assets/images/props/office/3-big.jpg"
+            },
+            {
+                "small": "assets/images/props/office/4-small.jpg",
+                "medium": "assets/images/props/office/4-medium.jpg",
+                "big": "assets/images/props/office/4-big.jpg"
+            },
+            {
+                "small": "assets/images/props/office/5-small.jpg",
+                "medium": "assets/images/props/office/5-medium.jpg",
+                "big": "assets/images/props/office/5-big.jpg"
+            },
+            {
+                "small": "assets/images/props/office/6-small.jpg",
+                "medium": "assets/images/props/office/6-medium.jpg",
+                "big": "assets/images/props/office/6-big.jpg"
+            }
+        ],
+        "plans": [
+            {
+                "name": "First floor",
+                "desc": "The first floor offers a welcoming living area, a modern kitchen, and well-planned spaces suitable for daily living and entertaining.",
+                "area": {
+                    "value": 1180,
+                    "unit": "ft²"
+                },
+                "rooms": 3,
+                "baths": 1,
+                "image": "assets/images/others/plan-1.jpg"
+            },
+            {
+                "name": "Second floor",
+                "desc": "The second floor includes private bedrooms with ample storage, enhanced ventilation, and a quiet layout designed for comfort and privacy.",
+                "area": {
+                    "value": 1200,
+                    "unit": "ft²"
+                },
+                "rooms": 5,
+                "baths": 2,
+                "image": "assets/images/others/plan-2.jpg"
+            }
+        ],
+        "videos": [
+            {
+                "name": "Video",
+                "link": "http://themeseason.com/data/videos/video-1.mp4"
+            },
+            {
+                "name": "Video with 'EmbedVideoService'",
+                "link": "https://www.youtube.com/watch?v=-NInBEdSvp8"
+            }
+        ],
+        "published": "2013-09-12 12:20:30",
+        "lastUpdate": "2019-05-20 14:20:00",
+        "views": 408
+    },
+    {
+       "id": 3,
     "title": "Comfortable family house",
-    "desc": "A well-designed family home offering spacious rooms, a peaceful environment, and easy access to daily essentials.",
+    "desc": "A spacious family home located in a calm residential neighborhood, offering green surroundings, ample living space, and close proximity to schools and healthcare facilities.",
     "propertyType": "House",
     "propertyStatus": ["For Sale", "Open House"],
     "city": "Pune",
-    "zipCode": "411045",
-    "neighborhood": ["Baner"],
-    "street": ["Baner Road"],
-    "location": { "lat": 18.559, "lng": 73.7868 },
-    "formattedAddress": "Baner Road, Pune, Maharashtra 411045, India",
-    "features": [],
-    "featured": false,
-    "priceDollar": { "sale": 2550000, "rent": null },
-    "priceEuro": { "sale": 2280000, "rent": null },
-    "bedrooms": 3,
-    "bathrooms": 1,
-    "garages": 1,
-    "area": { "value": 2100, "unit": "ft²" },
-    "yearBuilt": 2010,
-    "ratingsCount": 7,
-    "ratingsValue": 560,
-    "additionalFeatures": [],
-    "gallery": [],
-    "plans": [],
-    "videos": [],
-    "published": "2011-05-12 18:20:00",
-    "lastUpdate": "2019-06-18 14:20:00",
-    "views": 587
-  },
-  {
-    "id": 4,
+    "zipCode": "411001",
+    "neighborhood": ["Shivajinagar"],
+    "street": ["Shivaji Nagar Road"],
+    "location": {
+      "lat": 18.530823,
+      "lng": 73.847465
+    },
+        "formattedAddress" : "Shivaji Nagar Road, Pune, Maharashtra 411001, India",
+        "features": ["Air Conditioning", "Barbeque", "Dryer", "Microwave", "Gym", "Fireplace", "Sauna", "TV Cable", "WiFi"],
+        "featured": false, 
+        "priceDollar": {
+            "sale": 2550000,
+            "rent": null
+        },
+        "priceEuro": {
+            "sale": 2280000,
+            "rent": null
+        },
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "garages": 1,
+        "area": {
+            "value": 2100,
+            "unit": "ft²"
+        },
+        "yearBuilt": 2010,
+        "ratingsCount": 7,
+        "ratingsValue": 560,
+        "additionalFeatures": [                
+            {
+                "name": "Heat",
+                "value": "Natural Gas"
+            },
+            {
+                "name": "Roof",
+                "value": "Composition/Shingle"
+            },
+            {
+                "name": "Floors",
+                "value": "Wall-to-Wall Carpet"
+            },
+            {
+                "name": "Water",
+                "value": "District/Public"
+            },
+            {
+                "name": "Cross Streets",
+                "value": "Orangethorpe-Gilbert"
+            },
+            {
+                "name": "Windows",
+                "value": "Skylights"
+            },
+            {
+                "name": "Flat",
+                "value": "5"
+            },
+            {
+                "name": "Childroom",
+                "value": "2"
+            }
+        ],
+        "gallery": [            
+            {
+                "small": "assets/images/props/house-1/1-small.jpg",
+                "medium": "assets/images/props/house-1/1-medium.jpg",
+                "big": "assets/images/props/house-1/1-big.jpg"
+            },         
+            {
+                "small": "assets/images/props/house-1/2-small.jpg",
+                "medium": "assets/images/props/house-1/2-medium.jpg",
+                "big": "assets/images/props/house-1/2-big.jpg"
+            },
+            {
+                "small": "assets/images/props/house-1/3-small.jpg",
+                "medium": "assets/images/props/house-1/3-medium.jpg",
+                "big": "assets/images/props/house-1/3-big.jpg"
+            },
+            {
+                "small": "assets/images/props/house-1/4-small.jpg",
+                "medium": "assets/images/props/house-1/4-medium.jpg",
+                "big": "assets/images/props/house-1/4-big.jpg"
+            },
+            {
+                "small": "assets/images/props/house-1/5-small.jpg",
+                "medium": "assets/images/props/house-1/5-medium.jpg",
+                "big": "assets/images/props/house-1/5-big.jpg"
+            },
+            {
+                "small": "assets/images/props/house-1/6-small.jpg",
+                "medium": "assets/images/props/house-1/6-medium.jpg",
+                "big": "assets/images/props/house-1/6-big.jpg"
+            }
+        ],
+        "plans": [
+            {
+                "name": "First floor",
+                "desc": "The first floor offers a welcoming living area, a modern kitchen, and well-planned spaces suitable for daily living and entertaining.",
+                "area": {
+                    "value": 1180,
+                    "unit": "ft²"
+                },
+                "rooms": 3,
+                "baths": 1,
+                "image": "assets/images/others/plan-1.jpg"
+            },
+            {
+                "name": "Second floor",
+                "desc": "The second floor includes private bedrooms with ample storage, enhanced ventilation, and a quiet layout designed for comfort and privacy.",
+                "area": {
+                    "value": 1200,
+                    "unit": "ft²"
+                },
+                "rooms": 5,
+                "baths": 2,
+                "image": "assets/images/others/plan-2.jpg"
+            }
+        ],
+        "videos": [
+            {
+                "name": "Video",
+                "link": "http://themeseason.com/data/videos/video-1.mp4"
+            },
+            {
+                "name": "Video with 'EmbedVideoService'",
+                "link": "https://www.youtube.com/watch?v=-NInBEdSvp8"
+            }
+        ],
+        "published": "2011-05-12 18:20:00",
+        "lastUpdate": "2019-06-18 14:20:00",
+        "views": 587
+    },
+    {
+       "id": 4,
     "title": "Spacious and warm flat",
-    "desc": "A large and welcoming flat featuring open spaces, natural light, and a cozy atmosphere for comfortable living.",
+    "desc": "A well-lit and spacious apartment in a well-developed urban locality, offering modern conveniences, secure surroundings, and excellent connectivity.",
     "propertyType": "Apartment",
     "propertyStatus": ["Hot Offer", "No Fees"],
-    "city": "Chennai",
-    "zipCode": "600028",
-    "neighborhood": ["Adyar"],
-    "street": ["LB Road"],
-    "location": { "lat": 13.0067, "lng": 80.257 },
-    "formattedAddress": "LB Road, Adyar, Chennai, Tamil Nadu 600028, India",
-    "features": [],
-    "featured": true,
-    "priceDollar": { "sale": 1450000, "rent": null },
-    "priceEuro": { "sale": 1300000, "rent": null },
-    "bedrooms": 5,
-    "bathrooms": 2,
-    "garages": 2,
-    "area": { "value": 1700, "unit": "ft²" },
-    "yearBuilt": 2002,
-    "ratingsCount": 3,
-    "ratingsValue": 220,
-    "additionalFeatures": [],
-    "gallery": [],
-    "plans": [],
-    "videos": [],
-    "published": "2016-10-12 18:20:00",
-    "lastUpdate": "2019-06-11 14:20:00",
-    "views": 754
-  },
-  {
-    "id": 5,
+    "city": "Delhi",
+    "zipCode": "110001",
+    "neighborhood": ["Connaught Place"],
+    "street": ["Janpath Road"],
+    "location": {
+      "lat": 28.631451,
+      "lng": 77.216667
+    },
+        "formattedAddress": "Janpath Road, Connaught Place, Delhi 110001, India", 
+        "features": ["Air Conditioning", "Barbeque", "Dryer", "Microwave", "Gym", "Fireplace", "Sauna", "TV Cable", "WiFi"],
+        "featured": true, 
+        "priceDollar": {
+            "sale": 1450000,
+            "rent": null
+        },
+        "priceEuro": {
+            "sale": 1300000,
+            "rent": null
+        },
+        "bedrooms": 5,
+        "bathrooms": 2,
+        "garages": 2,
+        "area": {
+            "value": 1700,
+            "unit": "ft²"
+        },
+        "yearBuilt": 2002,
+        "ratingsCount": 3,
+        "ratingsValue": 220,
+        "additionalFeatures": [                
+            {
+                "name": "Heat",
+                "value": "Natural Gas"
+            },
+            {
+                "name": "Roof",
+                "value": "Composition/Shingle"
+            },
+            {
+                "name": "Floors",
+                "value": "Wall-to-Wall Carpet"
+            },
+            {
+                "name": "Water",
+                "value": "District/Public"
+            },
+            {
+                "name": "Cross Streets",
+                "value": "Orangethorpe-Gilbert"
+            },
+            {
+                "name": "Windows",
+                "value": "Skylights"
+            },
+            {
+                "name": "Flat",
+                "value": "5"
+            },
+            {
+                "name": "Childroom",
+                "value": "2"
+            }
+        ],
+        "gallery": [
+            {
+                "small": "assets/images/props/flat-2/1-small.jpg",
+                "medium": "assets/images/props/flat-2/1-medium.jpg",
+                "big": "assets/images/props/flat-2/1-big.jpg"
+            },
+            {
+                "small": "assets/images/props/flat-2/2-small.jpg",
+                "medium": "assets/images/props/flat-2/2-medium.jpg",
+                "big": "assets/images/props/flat-2/2-big.jpg"
+            },
+            {
+                "small": "assets/images/props/flat-2/3-small.jpg",
+                "medium": "assets/images/props/flat-2/3-medium.jpg",
+                "big": "assets/images/props/flat-2/3-big.jpg"
+            },
+            {
+                "small": "assets/images/props/flat-2/4-small.jpg",
+                "medium": "assets/images/props/flat-2/4-medium.jpg",
+                "big": "assets/images/props/flat-2/4-big.jpg"
+            },
+            {
+                "small": "assets/images/props/flat-2/5-small.jpg",
+                "medium": "assets/images/props/flat-2/5-medium.jpg",
+                "big": "assets/images/props/flat-2/5-big.jpg"
+            }
+        ],
+        "plans": [
+            {
+                "name": "First floor",
+                "desc": "The first floor offers a welcoming living area, a modern kitchen, and well-planned spaces suitable for daily living and entertaining.",
+                "area": {
+                    "value": 1180,
+                    "unit": "ft²"
+                },
+                "rooms": 3,
+                "baths": 1,
+                "image": "assets/images/others/plan-1.jpg"
+            },
+            {
+                "name": "Second floor",
+                "desc": "The second floor includes private bedrooms with ample storage, enhanced ventilation, and a quiet layout designed for comfort and privacy.",
+                "area": {
+                    "value": 1200,
+                    "unit": "ft²"
+                },
+                "rooms": 5,
+                "baths": 2,
+                "image": "assets/images/others/plan-2.jpg"
+            }
+        ],
+        "videos": [
+            {
+                "name": "Video",
+                "link": "http://themeseason.com/data/videos/video-1.mp4"
+            },
+            {
+                "name": "Video with 'EmbedVideoService'",
+                "link": "https://www.youtube.com/watch?v=-NInBEdSvp8"
+            }
+        ],
+        "published": "2016-10-12 18:20:00",
+        "lastUpdate": "2019-06-11 14:20:00",
+        "views": 754
+    },
+    {
+       "id": 5,
     "title": "House with a pool",
-    "desc": "A premium house featuring a private swimming pool, landscaped surroundings, and luxury living spaces.",
+    "desc": "A luxury house with a private swimming pool located in an upscale residential area of Hyderabad, offering privacy, premium amenities, and excellent road access.",
     "propertyType": "House",
     "propertyStatus": ["Sold", "For Sale"],
     "city": "Hyderabad",
     "zipCode": "500081",
-    "neighborhood": ["Hitech City"],
-    "street": ["Hitech City Road"],
-    "location": { "lat": 17.4474, "lng": 78.3762 },
-    "formattedAddress": "Hitech City, Hyderabad, Telangana 500081, India",
-    "features": [],
-    "featured": true,
-    "priceDollar": { "sale": 4500000, "rent": null },
-    "priceEuro": { "sale": 4020000, "rent": null },
-    "bedrooms": 1,
-    "bathrooms": 1,
-    "garages": 1,
-    "area": { "value": 2200, "unit": "ft²" },
-    "yearBuilt": 2007,
-    "ratingsCount": 6,
-    "ratingsValue": 480,
-    "additionalFeatures": [],
-    "gallery": [],
-    "plans": [],
-    "videos": [],
-    "published": "2017-11-20 10:20:00",
-    "lastUpdate": "2019-04-14 14:20:00",
-    "views": 633
-  },
-  {
-    "id": 6,
+    "neighborhood": ["Hitech City", "Madhapur"],
+    "street": ["Hitech City Road", "Madhapur Road"],
+    "location": { "lat": 17.447412, "lng": 78.376228 },
+        "formattedAddress": "Hitech City, Hyderabad, Telangana 500081, India", 
+        "features": ["Air Conditioning", "Barbeque", "Dryer", "Microwave", "Gym", "Swimming Pool", "Sauna", "TV Cable", "WiFi"],
+        "featured": true, 
+        "priceDollar": {
+            "sale": 4500000,
+            "rent": null
+        },
+        "priceEuro": {
+            "sale": 4020000,
+            "rent": null
+        },
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "garages": 1,
+        "area": {
+            "value": 2200,
+            "unit": "ft²"
+        },
+        "yearBuilt": 2007,
+        "ratingsCount": 6,
+        "ratingsValue": 480,
+        "additionalFeatures": [                
+            {
+                "name": "Heat",
+                "value": "Natural Gas"
+            },
+            {
+                "name": "Roof",
+                "value": "Composition/Shingle"
+            },
+            {
+                "name": "Floors",
+                "value": "Wall-to-Wall Carpet"
+            },
+            {
+                "name": "Water",
+                "value": "District/Public"
+            },
+            {
+                "name": "Cross Streets",
+                "value": "Orangethorpe-Gilbert"
+            },
+            {
+                "name": "Windows",
+                "value": "Skylights"
+            },
+            {
+                "name": "Flat",
+                "value": "5"
+            },
+            {
+                "name": "Childroom",
+                "value": "2"
+            }
+        ],
+        "gallery": [
+            {
+                "small": "assets/images/props/house-3/1-small.jpg",
+                "medium": "assets/images/props/house-3/1-medium.jpg",
+                "big": "assets/images/props/house-3/1-big.jpg"
+            },
+            {
+                "small": "assets/images/props/house-3/2-small.jpg",
+                "medium": "assets/images/props/house-3/2-medium.jpg",
+                "big": "assets/images/props/house-3/2-big.jpg"
+            },
+            {
+                "small": "assets/images/props/house-3/3-small.jpg",
+                "medium": "assets/images/props/house-3/3-medium.jpg",
+                "big": "assets/images/props/house-3/3-big.jpg"
+            },
+            {
+                "small": "assets/images/props/house-3/4-small.jpg",
+                "medium": "assets/images/props/house-3/4-medium.jpg",
+                "big": "assets/images/props/house-3/4-big.jpg"
+            }
+        ],
+        "plans": [
+            {
+                "name": "First floor",
+                "desc": "The first floor offers a welcoming living area, a modern kitchen, and well-planned spaces suitable for daily living and entertaining.",
+                "area": {
+                    "value": 1180,
+                    "unit": "ft²"
+                },
+                "rooms": 3,
+                "baths": 1,
+                "image": "assets/images/others/plan-1.jpg"
+            },
+            {
+                "name": "Second floor",
+                "desc": "The second floor includes private bedrooms with ample storage, enhanced ventilation, and a quiet layout designed for comfort and privacy.",
+                "area": {
+                    "value": 1200,
+                    "unit": "ft²"
+                },
+                "rooms": 5,
+                "baths": 2,
+                "image": "assets/images/others/plan-2.jpg"
+            }
+        ],
+        "videos": [
+            {
+                "name": "Video",
+                "link": "http://themeseason.com/data/videos/video-1.mp4"
+            },
+            {
+                "name": "Video with 'EmbedVideoService'",
+                "link": "https://www.youtube.com/watch?v=-NInBEdSvp8"
+            }
+        ],
+        "published": "2017-11-20 10:20:00",
+        "lastUpdate": "2019-04-14 14:20:00",
+        "views": 633
+    },
+    {
+       "id": 6,
     "title": "Bright and sunny house",
-    "desc": "A cheerful home filled with natural light, airy rooms, and a fresh design that enhances everyday living.",
+    "desc": "A bright and sunny rental house located in a growing residential neighborhood of Chennai, offering modern facilities and a peaceful living environment.",
     "propertyType": "House",
     "propertyStatus": ["For Rent", "No Fees"],
-    "city": "Ahmedabad",
-    "zipCode": "380015",
-    "neighborhood": ["Satellite"],
-    "street": ["Satellite Road"],
-    "location": { "lat": 23.03, "lng": 72.5178 },
-    "formattedAddress": "Satellite Road, Ahmedabad, Gujarat 380015, India",
-    "features": [],
-    "featured": true,
-    "priceDollar": { "sale": null, "rent": 9000 },
-    "priceEuro": { "sale": null, "rent": 8000 },
-    "bedrooms": 2,
-    "bathrooms": 2,
-    "garages": 1,
-    "area": { "value": 1600, "unit": "ft²" },
-    "yearBuilt": 2017,
-    "ratingsCount": 5,
-    "ratingsValue": 400,
-    "additionalFeatures": [],
-    "gallery": [],
-    "plans": [],
-    "videos": [],
-    "published": "2013-11-19 18:20:00",
-    "lastUpdate": "2019-06-08 14:20:00",
-    "views": 256
-  }
+    "city": "Chennai",
+    "zipCode": "600028",
+    "neighborhood": ["Adyar", "Besant Nagar"],
+    "street": ["Adyar Main Road", "Besant Nagar Road"],
+    "location": { "lat": 13.006752, "lng": 80.257500 },
+        "formattedAddress": "Adyar, Chennai, Tamil Nadu 600028, India", 
+        "features": ["Refrigerator", "Barbeque", "Dryer", "Microwave", "Gym", "Swimming Pool", "Sauna", "TV Cable", "WiFi"],
+        "featured": true, 
+        "priceDollar": {
+            "sale": null,
+            "rent": 9000
+        },
+        "priceEuro": {
+            "sale": null,
+            "rent": 8000
+        },
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "garages": 1,
+        "area": {
+            "value": 1600,
+            "unit": "ft²"
+        },
+        "yearBuilt": 2017,
+        "ratingsCount": 5,
+        "ratingsValue": 400,
+        "additionalFeatures": [                
+            {
+                "name": "Heat",
+                "value": "Natural Gas"
+            },
+            {
+                "name": "Roof",
+                "value": "Composition/Shingle"
+            },
+            {
+                "name": "Floors",
+                "value": "Wall-to-Wall Carpet"
+            },
+            {
+                "name": "Water",
+                "value": "District/Public"
+            },
+            {
+                "name": "Cross Streets",
+                "value": "Orangethorpe-Gilbert"
+            },
+            {
+                "name": "Windows",
+                "value": "Skylights"
+            },
+            {
+                "name": "Flat",
+                "value": "5"
+            },
+            {
+                "name": "Childroom",
+                "value": "2"
+            }
+        ],
+        "gallery": [
+            {
+                "small": "assets/images/props/house-2/1-small.jpg",
+                "medium": "assets/images/props/house-2/1-medium.jpg",
+                "big": "assets/images/props/house-2/1-big.jpg"
+            },
+            {
+                "small": "assets/images/props/house-2/2-small.jpg",
+                "medium": "assets/images/props/house-2/2-medium.jpg",
+                "big": "assets/images/props/house-2/2-big.jpg"
+            },
+            {
+                "small": "assets/images/props/house-2/3-small.jpg",
+                "medium": "assets/images/props/house-2/3-medium.jpg",
+                "big": "assets/images/props/house-2/3-big.jpg"
+            },
+            {
+                "small": "assets/images/props/house-2/4-small.jpg",
+                "medium": "assets/images/props/house-2/4-medium.jpg",
+                "big": "assets/images/props/house-2/4-big.jpg"
+            }
+        ],
+        "plans": [
+            {
+                "name": "First floor",
+                "desc": "The first floor offers a welcoming living area, a modern kitchen, and well-planned spaces suitable for daily living and entertaining.",
+                "area": {
+                    "value": 1180,
+                    "unit": "ft²"
+                },
+                "rooms": 3,
+                "baths": 1,
+                "image": "assets/images/others/plan-1.jpg"
+            },
+            {
+                "name": "Second floor",
+                "desc": "The second floor includes private bedrooms with ample storage, enhanced ventilation, and a quiet layout designed for comfort and privacy.",
+                "area": {
+                    "value": 1200,
+                    "unit": "ft²"
+                },
+                "rooms": 5,
+                "baths": 2,
+                "image": "assets/images/others/plan-2.jpg"
+            }
+        ],
+        "videos": [
+            {
+                "name": "Video",
+                "link": "http://themeseason.com/data/videos/video-1.mp4"
+            },
+            {
+                "name": "Video with 'EmbedVideoService'",
+                "link": "https://www.youtube.com/watch?v=-NInBEdSvp8"
+            }
+        ],
+        "published": "2013-11-19 18:20:00",
+        "lastUpdate": "2019-06-08 14:20:00",
+        "views": 256
+    },
+    {
+        "id": 7,
+    "title": "Luxury office space",
+    "desc": "A luxury office space located in a prime commercial hub of Gurugram, offering premium infrastructure, modern design, and excellent corporate surroundings.",
+    "propertyType": "Office",
+    "propertyStatus": ["For Sale", "Hot Offer"],
+    "city": "Gurugram",
+    "zipCode": "122002",
+    "neighborhood": ["DLF Phase 3", "Cyber City"],
+    "street": ["Cyber City Road", "DLF Road"],
+    "location": { "lat": 28.494999, "lng": 77.089488 },
+        "formattedAddress": "Cyber City, Gurugram, Haryana 122002, India", 
+        "features": ["Air Conditioning", "Barbeque", "Dryer", "Microwave", "Gym", "Swimming Pool", "Sauna", "TV Cable", "WiFi"],
+        "featured": false, 
+        "priceDollar": {
+            "sale": 2500000,
+            "rent": null
+        },
+        "priceEuro": {
+            "sale": 2200000,
+            "rent": null
+        },
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "garages": 1,
+        "area": {
+            "value": 3200,
+            "unit": "ft²"
+        },
+        "yearBuilt": 2017,
+        "ratingsCount": 7,
+        "ratingsValue": 700,
+        "additionalFeatures": [                
+            {
+                "name": "Heat",
+                "value": "Natural Gas"
+            },
+            {
+                "name": "Roof",
+                "value": "Composition/Shingle"
+            },
+            {
+                "name": "Floors",
+                "value": "Wall-to-Wall Carpet"
+            },
+            {
+                "name": "Water",
+                "value": "District/Public"
+            },
+            {
+                "name": "Cross Streets",
+                "value": "Orangethorpe-Gilbert"
+            },
+            {
+                "name": "Windows",
+                "value": "Skylights"
+            },
+            {
+                "name": "Flat",
+                "value": "5"
+            },
+            {
+                "name": "Childroom",
+                "value": "2"
+            }
+        ],
+        "gallery": [
+            {
+                "small": "assets/images/props/office-2/1-small.jpg",
+                "medium": "assets/images/props/office-2/1-medium.jpg",
+                "big": "assets/images/props/office-2/1-big.jpg"
+            },
+            {
+                "small": "assets/images/props/office-2/2-small.jpg",
+                "medium": "assets/images/props/office-2/2-medium.jpg",
+                "big": "assets/images/props/office-2/2-big.jpg"
+            },
+            {
+                "small": "assets/images/props/office-2/3-small.jpg",
+                "medium": "assets/images/props/office-2/3-medium.jpg",
+                "big": "assets/images/props/office-2/3-big.jpg"
+            },
+            {
+                "small": "assets/images/props/office-2/4-small.jpg",
+                "medium": "assets/images/props/office-2/4-medium.jpg",
+                "big": "assets/images/props/office-2/4-big.jpg"
+            },
+            {
+                "small": "assets/images/props/office-2/5-small.jpg",
+                "medium": "assets/images/props/office-2/5-medium.jpg",
+                "big": "assets/images/props/office-2/5-big.jpg"
+            },
+            {
+                "small": "assets/images/props/office-2/6-small.jpg",
+                "medium": "assets/images/props/office-2/6-medium.jpg",
+                "big": "assets/images/props/office-2/6-big.jpg"
+            }
+        ],
+        "plans": [
+            {
+                "name": "First floor",
+                "desc": "The first floor offers a welcoming living area, a modern kitchen, and well-planned spaces suitable for daily living and entertaining.",
+                "area": {
+                    "value": 1180,
+                    "unit": "ft²"
+                },
+                "rooms": 3,
+                "baths": 1,
+                "image": "assets/images/others/plan-1.jpg"
+            },
+            {
+                "name": "Second floor",
+                "desc": "The second floor includes private bedrooms with ample storage, enhanced ventilation, and a quiet layout designed for comfort and privacy.",
+                "area": {
+                    "value": 1200,
+                    "unit": "ft²"
+                },
+                "rooms": 5,
+                "baths": 2,
+                "image": "assets/images/others/plan-2.jpg"
+            }
+        ],
+        "videos": [
+            {
+                "name": "Video",
+                "link": "http://themeseason.com/data/videos/video-1.mp4"
+            },
+            {
+                "name": "Video with 'EmbedVideoService'",
+                "link": "https://www.youtube.com/watch?v=-NInBEdSvp8"
+            }
+        ],
+        "published": "2017-08-12 18:20:00",
+        "lastUpdate": "2019-03-29 14:20:00",
+        "views": 470
+    },
+    {
+       "id": 8,
+    "title": "Centrally located apartment",
+    "desc": "A centrally located apartment in Kolkata offering comfortable living, modern amenities, and excellent access to public transport and city attractions.",
+    "propertyType": "Apartment",
+    "propertyStatus": ["For Rent", "No Fees"],
+    "city": "Kolkata",
+    "zipCode": "700071",
+    "neighborhood": ["Park Street", "Esplanade"],
+    "street": ["Park Street", "Esplanade Road"],
+    "location": { "lat": 22.553820, "lng": 88.350185 },
+        "formattedAddress": "Park Street, Kolkata, West Bengal 700071, India", 
+        "features": ["Air Conditioning", "Refrigerator", "Dryer", "Microwave", "Gym", "Swimming Pool", "Sauna", "TV Cable", "WiFi"],
+        "featured": true, 
+        "priceDollar": {
+            "sale": null,
+            "rent": 5600
+        },
+        "priceEuro": {
+            "sale": null,
+            "rent": 5000
+        },
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "garages": 1,
+        "area": {
+            "value": 1600,
+            "unit": "ft²"
+        },
+        "yearBuilt": 2017,
+        "ratingsCount": 4,
+        "ratingsValue": 380,
+        "additionalFeatures": [                
+            {
+                "name": "Heat",
+                "value": "Natural Gas"
+            },
+            {
+                "name": "Roof",
+                "value": "Composition/Shingle"
+            },
+            {
+                "name": "Floors",
+                "value": "Wall-to-Wall Carpet"
+            },
+            {
+                "name": "Water",
+                "value": "District/Public"
+            },
+            {
+                "name": "Cross Streets",
+                "value": "Orangethorpe-Gilbert"
+            },
+            {
+                "name": "Windows",
+                "value": "Skylights"
+            },
+            {
+                "name": "Flat",
+                "value": "5"
+            },
+            {
+                "name": "Childroom",
+                "value": "2"
+            }
+        ],
+        "gallery": [
+            {
+                "small": "assets/images/props/apartment/1-small.jpg",
+                "medium": "assets/images/props/apartment/1-medium.jpg",
+                "big": "assets/images/props/apartment/1-big.jpg"
+            },
+            {
+                "small": "assets/images/props/apartment/2-small.jpg",
+                "medium": "assets/images/props/apartment/2-medium.jpg",
+                "big": "assets/images/props/apartment/2-big.jpg"
+            },
+            {
+                "small": "assets/images/props/apartment/3-small.jpg",
+                "medium": "assets/images/props/apartment/3-medium.jpg",
+                "big": "assets/images/props/apartment/3-big.jpg"
+            },
+            {
+                "small": "assets/images/props/apartment/4-small.jpg",
+                "medium": "assets/images/props/apartment/4-medium.jpg",
+                "big": "assets/images/props/apartment/4-big.jpg"
+            },
+            {
+                "small": "assets/images/props/apartment/5-small.jpg",
+                "medium": "assets/images/props/apartment/5-medium.jpg",
+                "big": "assets/images/props/apartment/5-big.jpg"
+            }
+        ],
+        "plans": [
+            {
+                "name": "First floor",
+                "desc": "The first floor offers a welcoming living area, a modern kitchen, and well-planned spaces suitable for daily living and entertaining.",
+                "area": {
+                    "value": 1180,
+                    "unit": "ft²"
+                },
+                "rooms": 3,
+                "baths": 1,
+                "image": "assets/images/others/plan-1.jpg"
+            },
+            {
+                "name": "Second floor",
+                "desc": "The second floor includes private bedrooms with ample storage, enhanced ventilation, and a quiet layout designed for comfort and privacy.",
+                "area": {
+                    "value": 1200,
+                    "unit": "ft²"
+                },
+                "rooms": 5,
+                "baths": 2,
+                "image": "assets/images/others/plan-2.jpg"
+            }
+        ],
+        "videos": [
+            {
+                "name": "Video",
+                "link": "http://themeseason.com/data/videos/video-1.mp4"
+            },
+            {
+                "name": "Video with 'EmbedVideoService'",
+                "link": "https://www.youtube.com/watch?v=-NInBEdSvp8"
+            }
+        ],
+        "published": "2016-03-29 05:20:00",
+        "lastUpdate": "2019-06-26 14:20:00",
+        "views": 852
+    }    
 ]
